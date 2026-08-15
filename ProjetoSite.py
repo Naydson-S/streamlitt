@@ -151,7 +151,7 @@ st.sidebar.image(
 
 st.sidebar.markdown("""
 * IDADE : **18 anos**
-* CURSANDO : **3° ano do Ensino Médio**
+* CURSANDO : **Engenharia de software**
 * TELEFONE : **(87) 98105-8522**
 * EMAIL : **naydsonsilvaaaa@gmail.com**
 * LOCALIDADE : **Volta do Moxoto - Jatoba - PE**
